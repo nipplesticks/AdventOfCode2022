@@ -127,28 +127,40 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="src\Day0\Day0.cpp" />
     <ClCompile Include="src\Day1\Day1.cpp" />
     <ClCompile Include="src\Day2\Day2.cpp" />
     <ClCompile Include="src\Day3\Day3.cpp" />
     <ClCompile Include="src\Day4\Day4.cpp" />
     <ClCompile Include="src\Day5\Day5.cpp" />
+    <ClCompile Include="src\Day6\Day6.cpp" />
+    <ClCompile Include="src\Day7\Day7.cpp" />
+    <ClCompile Include="src\Day8\Day8.cpp" />
     <ClCompile Include="src\iDay.cpp" />
     <ClCompile Include="src\Source.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="src\Day0\Day0.h" />
     <ClInclude Include="src\Day2\Day2.h" />
     <ClInclude Include="src\Day3\Day3.h" />
     <ClInclude Include="src\Day4\Day4.h" />
     <ClInclude Include="src\Day5\Day5.h" />
+    <ClInclude Include="src\Day6\Day6.h" />
+    <ClInclude Include="src\Day7\Day7.h" />
+    <ClInclude Include="src\Day8\Day8.h" />
     <ClInclude Include="src\iDay.h" />
     <ClInclude Include="src\Day1\Day1.h" />
   </ItemGroup>
   <ItemGroup>
+    <Text Include="src\Day0\Input.txt" />
     <Text Include="src\Day1\Input.txt" />
     <Text Include="src\Day2\Input.txt" />
     <Text Include="src\Day3\Input.txt" />
     <Text Include="src\Day4\Input.txt" />
     <Text Include="src\Day5\Input.txt" />
+    <Text Include="src\Day6\Input.txt" />
+    <Text Include="src\Day7\Input.txt" />
+    <Text Include="src\Day8\Input.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
