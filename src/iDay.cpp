@@ -8,6 +8,7 @@
 #include "Day7/Day7.h"
 #include "Day8/Day8.h"
 #include "Day9/Day9.h"
+#include "Day10/Day10.h"
 
 
 void iDay::RunDay(unsigned int dayNumber)
@@ -41,6 +42,9 @@ void iDay::RunDay(unsigned int dayNumber)
     break;
   case 9:
     day_p = new Day9();
+    break;
+  case 10:
+    day_p = new Day10();
     break;
   default:
     break;
