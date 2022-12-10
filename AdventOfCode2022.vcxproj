@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="src\Day0\Day0.cpp" />
     <ClCompile Include="src\Day10\Day10.cpp" />
+    <ClCompile Include="src\Day11\Day11.cpp" />
     <ClCompile Include="src\Day1\Day1.cpp" />
     <ClCompile Include="src\Day2\Day2.cpp" />
     <ClCompile Include="src\Day3\Day3.cpp" />
@@ -144,6 +145,7 @@
   <ItemGroup>
     <ClInclude Include="src\Day0\Day0.h" />
     <ClInclude Include="src\Day10\Day10.h" />
+    <ClInclude Include="src\Day11\Day11.h" />
     <ClInclude Include="src\Day2\Day2.h" />
     <ClInclude Include="src\Day3\Day3.h" />
     <ClInclude Include="src\Day4\Day4.h" />
@@ -158,6 +160,7 @@
   <ItemGroup>
     <Text Include="src\Day0\Input.txt" />
     <Text Include="src\Day10\Input.txt" />
+    <Text Include="src\Day11\Input.txt" />
     <Text Include="src\Day1\Input.txt" />
     <Text Include="src\Day2\Input.txt" />
     <Text Include="src\Day3\Input.txt" />
