@@ -3,7 +3,7 @@
 
 int main()
 {
-  iDay::RunDay(9);
+  iDay::RunDay(10);
 
   return 0;
 }
